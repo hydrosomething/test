@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="https://danielabishop.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://danielabishop.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-01-03T15:18:01-05:00</updated>
+  <id>https://danielabishop.github.io/</id>
+
+  
+    <title type="html">Daniel A Bishop</title>
+  
+
+  
+    <subtitle>Daniel is an atmospheric scientist with specialization in climate dynamics and dendrochronology. He has experience working with observational climate and general circulation model data, as well as the quantitative and field methods of dendrochronology. His dissertation research considered the drivers of change in spatial and temporal hydroclimate, with an emphasis on dynamic and thermodynamic causes of decadal-to-centennial precipitation trends and variability over eastern North America.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">2020 AGU Presentation</title>
+      <link href="https://danielabishop.github.io/2020/12/11/project-4/" rel="alternate" type="text/html" title="2020 AGU Presentation" />
+      <published>2020-12-11T00:00:00-05:00</published>
+      <updated>2020-12-11T00:00:00-05:00</updated>
+      <id>https://danielabishop.github.io/2020/12/11/project-4</id>
+      <content type="html" xml:base="https://danielabishop.github.io/2020/12/11/project-4/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2019 AGU Presentation</title>
+      <link href="https://danielabishop.github.io/2019/12/10/project-3/" rel="alternate" type="text/html" title="2019 AGU Presentation" />
+      <published>2019-12-10T00:00:00-05:00</published>
+      <updated>2019-12-10T00:00:00-05:00</updated>
+      <id>https://danielabishop.github.io/2019/12/10/project-3</id>
+      <content type="html" xml:base="https://danielabishop.github.io/2019/12/10/project-3/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2018 AGU Presentation</title>
+      <link href="https://danielabishop.github.io/2018/12/11/project-2/" rel="alternate" type="text/html" title="2018 AGU Presentation" />
+      <published>2018-12-11T00:00:00-05:00</published>
+      <updated>2018-12-11T00:00:00-05:00</updated>
+      <id>https://danielabishop.github.io/2018/12/11/project-2</id>
+      <content type="html" xml:base="https://danielabishop.github.io/2018/12/11/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2017 AGU Presentation</title>
+      <link href="https://danielabishop.github.io/2017/12/13/project-1/" rel="alternate" type="text/html" title="2017 AGU Presentation" />
+      <published>2017-12-13T00:00:00-05:00</published>
+      <updated>2017-12-13T00:00:00-05:00</updated>
+      <id>https://danielabishop.github.io/2017/12/13/project-1</id>
+      <content type="html" xml:base="https://danielabishop.github.io/2017/12/13/project-1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

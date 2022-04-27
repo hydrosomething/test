@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+title: 2017 AGU Presentation
+date: 2017-12-13
+img: Talk1.png
+alt: image-alt
+project-date: December 2017
+description: Oral Presentation at the 2017 American Geophysical Union Fall Meeting in New Orleans, LA, on December 13, 2017.
+download: https://figshare.com/articles/presentation/2017_AGU_Presentation/7913648
+
+---
