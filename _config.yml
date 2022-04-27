@@ -1,0 +1,66 @@
+# Site settings
+title: Daniel A Bishop
+email: daniel.bishop98@gmail.com
+url: https://danielabishop.github.io
+description: "Daniel is an atmospheric scientist with specialization in climate dynamics and dendrochronology. He has experience working with observational climate and general circulation model data, as well as the quantitative and field methods of dendrochronology. His dissertation research considered the drivers of change in spatial and temporal hydroclimate, with an emphasis on dynamic and thermodynamic causes of decadal-to-centennial precipitation trends and variability over eastern North America."
+keywords: "bioclimatology, hydroclimatology, global change"
+skills: "<b>Atmospheric Scientist, PhD</b><br>Catastrophe Modeling - Hydroclimatology - Global Change - Climate Impacts"
+meta_author: Bishop Daniel
+
+# Google webmaster tools
+google_verify: GXoWk27mp--et593f2Bh-Q8xK-dlKyfJYeFNdTXu7vM
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: 1A9A39558367FDEEE4900ED8C43E538A
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+#contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+#disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 80ed8e
+  primary-rgb: "128,237,142"
+  secondary: 0f0f0f
+  secondary-rgb: "15,15,15"
+  third: 0c4ad1
+  third-rgb: "12,74,209"
+  #secondary-dark: 000000
+
+# Footer settings
+footer:
+  copyright: Daniel A Bishop
+  location: Contact
+  social: Professional Media
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: "fa fa-twitter"
+    url: "http://twitter.com/dbishop0713"
+  - title: "fa fa-linkedin"
+    url: "https://www.linkedin.com/in/daniel-bishop-3028242a"
+  - title: "fa fa-github"
+    url: "https://github.com/danielabishop"
+  - title: "ai ai-researchgate-square"
+    url: "https://www.researchgate.net/profile/Daniel_Bishop2"
+  - title: "ai ai-google-scholar-square"
+    url: "https://scholar.google.com/citations?hl=en&user=-p7ipasAAAAJ"
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Boston, MA
+  - line: daniel [dot] bishop98 [at] gmail [dot] com
+
+# Credits content
+credits: "Under Construction"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
